@@ -1,2 +1,6 @@
 language = "java10"
+<<<<<<< HEAD
 run = ""
+=======
+run = "chmod +x run.sh && ./run.sh"
+>>>>>>> origin/master
